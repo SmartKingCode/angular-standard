@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Root",
+      "last_name": "admin",
+      "sexe": "O",
+      "dob": "2019-05-09",
+      "email": "admin@gmail.com"
+    }
+  ]
+}
